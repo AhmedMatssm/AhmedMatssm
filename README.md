@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 <!-- ABOUT -->
 ### 🧑‍💻 About Me  
 
-🌍 Based in **Morocco**  
-💡 Passionate about building **clean, efficient, and scalable web applications**  
-🧠 Strong background in **MERN Stack**, **Laravel**, **JavaScript**, and **PHP**  
-🎯 Focused on creating **impactful, user-friendly digital experiences**  
+Based in **Morocco**  
+Passionate about building **clean, efficient, and scalable web applications**  
+Strong background in **MERN Stack**, **Laravel**, **JavaScript**, and **PHP**  
+Focused on creating **impactful, user-friendly digital experiences**  
 
 > “Code is like art — it should not only work, but inspire.” ✨ 
 
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Shadcn/UI-18181B?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-303030?style=for-the-badge&logo=node.js&logoColor=6cc24a" />
   <img src="https://img.shields.io/badge/Express.js-1C1C1C?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-0F6690?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -61,9 +62,9 @@ Here are some ideas to get you started:
 ### 🧩 Featured Projects  
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🪄 **SaaS Background Remover** | A web platform + API for removing image backgrounds instantly using AI. Scalable and ready for multi-tenant SaaS deployment. | React, Node.js, Express, Cloudinary, TailwindCSS |
-| 🛒 **E-Commerce Platform** | A modern online store with full product management, cart system, and payment integration. | Laravel, MySQL, Blade, Stripe |
-| 🚗 **Car Rental Website** | Dynamic car booking platform with real-time availability and admin dashboard. | MERN Stack (MongoDB, Express, React, Node.js), TailwindCSS |
+| **SaaS Background Remover** | A web platform + API for removing image backgrounds instantly using AI. Scalable and ready for multi-tenant SaaS deployment. | React, Node.js, Express, Cloudinary, TailwindCSS |
+| **E-Commerce Platform** | A modern online store with full product management, cart system, and payment integration. | Laravel, MySQL, Blade, Stripe |
+| **Car Rental Website** | Dynamic car booking platform with real-time availability and admin dashboard. | MERN Stack (MongoDB, Express, React, Node.js), TailwindCSS |
 
 <!-- GITHUB STATS -->
 ### 📊 GitHub Insights  
